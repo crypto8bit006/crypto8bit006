@@ -1,7 +1,6 @@
 - 👋 Hi, I’m crypto8bit
 - 👀 I’m interested in learning about various defi protocols
 - 🌱 I’m currently learning solidity language
-- 💞️ I’m looking to collaborate on my youtube channel https://www.youtube.com/channel/UCKdR3ubynDskX2BP1DohY8w
 - 📫 You can mail me at cryptodream9006@gmail.com
 
 <!---
